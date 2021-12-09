@@ -468,7 +468,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background-image: url('/assets/img/hero--dark-sketch.jpg');
+  background-image: url('../img/hero--dark-sketch.jpg');
   padding: 100px 0;
 }
 .cta h3 {
